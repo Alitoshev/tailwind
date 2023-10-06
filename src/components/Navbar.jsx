@@ -1,6 +1,6 @@
 function Navbar() {
   return (
-    <div className="overflow-hidden">
+    <div className="overflow-hidden grid">
       <section className="min-h-screen bg-gradient-180 bg-gradient-to-r from-bg-1-1 from-05 to-bg-1-2 to-100%">
         <nav className="bg-gradient-to-r from-bg-1-1 from-05 to-bg-1-2 to-100% w-full z-1 flex flex-row overflow-hidden">
           <div className="max-w-screen-xl flex-1 text-base items-center flex p-10">
